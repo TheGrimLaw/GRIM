@@ -2,15 +2,15 @@
   "mods": [
     {
       "filename": "architectury-13.0.8-fabric.jar",
-      "url": "https://github.com/TheGrimLaw/GRIM/blob/main/mods/architectury-13.0.8-fabric.jar"
+      "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/architectury-13.0.8-fabric.jar"
     },
     {
       "filename": "Cobbledolarsaddon-1.0.1+1.21.1.jar",
-      "url": "https://github.com/TheGrimLaw/GRIM/blob/main/mods/Cobbledolarsaddon-1.0.1%2B1.21.1.jar"
+      "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/Cobbledolarsaddon-1.0.1+1.21.1.jar"
     },
     {
       "filename": "CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar",
-      "url": "https://github.com/TheGrimLaw/GRIM/blob/main/mods/CobbleDollars-fabric-2.0.0%2BBeta-5.1%2B1.21.1.jar"
+      "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar"
     },
     {
       "filename": "Cobblemon-fabric-1.7.3+1.21.1.jar",
@@ -22,31 +22,31 @@
     },
     {
       "filename": "ferritecore-7.0.3-fabric.jar",
-      "url": "https://github.com/TheGrimLaw/GRIM/blob/main/mods/ferritecore-7.0.3-fabric.jar"
+      "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/ferritecore-7.0.3-fabric.jar"
     },
     {
       "filename": "ftb-chunks-fabric-2101.1.4.jar",
-      "url": "https://github.com/TheGrimLaw/GRIM/blob/main/mods/ftb-chunks-fabric-2101.1.4.jar"
+      "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/ftb-chunks-fabric-2101.1.4.jar"
     },
     {
       "filename": "ftb-library-fabric-2101.1.31.jar",
-      "url": "https://github.com/TheGrimLaw/GRIM/blob/main/mods/ftb-library-fabric-2101.1.31.jar"
+      "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/ftb-library-fabric-2101.1.31.jar"
     },
     {
       "filename": "ftb-teams-fabric-2101.1.10.jar",
-      "url": "https://github.com/TheGrimLaw/GRIM/blob/main/mods/ftb-teams-fabric-2101.1.10.jar"
+      "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/ftb-teams-fabric-2101.1.10.jar"
     },
     {
       "filename": "lavender-0.1.12+1.21.jar",
-      "url": "https://github.com/TheGrimLaw/GRIM/blob/main/mods/lavender-0.1.12%2B1.21.jar"
+      "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/lavender-0.1.12+1.21.jar"
     },
     {
       "filename": "owo-lib-0.12.10+1.21.jar",
-      "url": "https://github.com/TheGrimLaw/GRIM/blob/main/mods/owo-lib-0.12.10%2B1.21.jar"
+      "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/owo-lib-0.12.10+1.21.jar"
     },
     {
       "filename": "toms_storage_fabric-1.21-2.3.0.jar",
-      "url": "https://github.com/TheGrimLaw/GRIM/blob/main/mods/toms_storage_fabric-1.21-2.3.0.jar"
+      "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/toms_storage_fabric-1.21-2.3.0.jar"
     }
   ]
 }
