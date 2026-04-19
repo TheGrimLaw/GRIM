@@ -47,6 +47,10 @@
     {
       "filename": "toms_storage_fabric-1.21-2.3.0.jar",
       "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/toms_storage_fabric-1.21-2.3.0.jar"
+    },
+    {
+      "filename": "quit-from-game-menu-1.0.3.jar",
+      "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/quit-from-game-menu-1.0.3.jar"
     }
   ]
 }
