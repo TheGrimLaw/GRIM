@@ -22,7 +22,7 @@
     },
     {
       "filename": "fabric-api-0.116.10+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/TheGrimLaw/GRIM/main/mods/fabric-api-0.116.10+1.21.1.jar"
+      "url": "https://github.com/TheGrimLaw/GRIM/releases/download/v1/fabric-api-0.116.10+1.21.1.jar"
     },
     {
       "filename": "ferritecore-7.0.3-fabric.jar",
