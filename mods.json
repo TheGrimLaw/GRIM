@@ -5,6 +5,14 @@
       "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/architectury-13.0.8-fabric.jar"
     },
      {
+      "filename": "fancymenu_fabric_3.8.1_MC_1.21.1.jar",
+      "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/fancymenu_fabric_3.8.1_MC_1.21.1.jar"
+    },
+     {
+      "filename": "konkrete_fabric_1.9.9_MC_1.21.jar",
+      "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/konkrete_fabric_1.9.9_MC_1.21.jar"
+    },
+     {
       "filename": "sodium-fabric-0.6.13+mc1.21.1.jar",
       "url": "https://github.com/TheGrimLaw/GRIM/raw/refs/heads/main/mods/sodium-fabric-0.6.13+mc1.21.1.jar"
     },
